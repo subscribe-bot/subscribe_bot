@@ -24,4 +24,4 @@ nonebot(2?), fastapi作为网页后端添加订阅的网站, 数据库使用mysq
 
 # git开发合作指南
 
-[](documents\git合作开发指南(抄的).md)
+[git合作开发指南(抄的)](https://github.com/subscribe-bot/subscribe_bot/blob/main/documents/git合作开发指南(抄的).md)
