@@ -21,3 +21,7 @@
 # 技术栈
 
 nonebot(2?), fastapi作为网页后端添加订阅的网站, 数据库使用mysql+sqlalchemy_orm, 前端还是amis低代码。爬的话或许httpx(只支持http(s), ssrf还是要走curl等)。
+
+# git开发合作指南
+
+[](documents\git合作开发指南(抄的).md)
